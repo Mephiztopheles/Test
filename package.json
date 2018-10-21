@@ -1,11 +1,8 @@
 {
-  "name": "test",
+  "name": "@mephiztopheles/test",
   "version": "1.0.0",
   "description": "test framework",
   "main": "TestCase.js",
-  "dependencies": {
-    "package": "^1.0.1"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "test"
@@ -18,7 +15,7 @@
     "test",
     "mephiztopheles"
   ],
-  "author": "Mephiztopheles",
+  "author": "mephiztopheles",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mephiztopheles/Test/issues"
